@@ -1,19 +1,15 @@
-MMMMMMMMMMMMMMMMMMMMMMMMMMM   IMMMMMMM   MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   MM?   MMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMM   +MMMMMMM   MMMMMMMMMMMMMMMMMMMMMMMMMMMMM   +M$   MMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMM   MMMMMMMM   MMMMMMMMMMMMMMMMMMMMMMMMMMM   =MM   MMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM   MMMMMMM   =MMMMMMMMMMMMMMMMMMMMMMM  D   MM   MMMMMMMMMMMMMMMMMMMMMM
-MM           8          :     N   MI    M   MN           M       M        M                       MM
-MMM          8          :      $   M     Z   M7          M      $         M                     MMMM
-MMMM   DMM   M   MMMM   :  NMMMM.  .M   $M=   MO   MM~   M   MM         MMM      M   M  ,MMMMMMMMMMM
-MMMMM    M   M   MMMM   :  NMMMMM   $M   MM   MMM   M~   M   N   .      MMM      M   M  ,MMMMMMMMMMM
-MMMMMM       M   MMMM   :  N         I    MM   MMM   D   M   ~  NM      MMM      M   D  ~MMMMMMMMMMM
-MMMMMMM      M          :  N          M  MMM~  .MMM      M   ~  NM      MMM      M   D  ~MMMMMMMMMMM
-MMMMMMMM,    M          :  N   MMMMM    MMMMM   $MMM     M   ~  NM      MMM      M   D  ~MMMMMMMMMMM
-MMMMMMMMM~   MM            N   MMM7          M      8    M   ~  NM      MMM      M   D  ~MMMMMMMMMMM
-MMMMMMMMMM?  MMM           N   MM             O      $:  M   ~  NM      MMM      M   D  ~MMMMMMMMMMM
-MMMMMMMMMMMM MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM= MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM?MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+  ________                            .__   
+ /  _____/  ____  ____________   ____ |  |  
+/   \  ___ /  _ \/  ___/\____ \_/ __ \|  |  
+\    \_\  (  <_> )___ \ |  |_> >  ___/|  |__
+ \______  /\____/____  >|   __/ \___  >____/
+        \/           \/ |__|        \/      
+  ________              _____  _____.__  __  .__ 
+ /  _____/___________ _/ ____\/ ____\__|/  |_|__|
+/   \  __\_  __ \__  \\   __\\   __\|  \   __\  |
+\    \_\  \  | \// __ \|  |   |  |  |  ||  | |  |
+ \______  /__|  (____  /__|   |__|  |__||__| |__|
+        \/           \/                          
 
 Gospel Graffiti game
 
