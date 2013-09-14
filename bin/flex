@@ -1,0 +1,4 @@
+~/604541/vendor/AIRSDK/bin/mxmlc \
+-library-path+=../vendor/Starling-Framework/starling/bin/starling.swc \
+-o ../build/game.swf \
+../src/Startup.as

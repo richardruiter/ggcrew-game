@@ -1,0 +1,4 @@
+{"ts":1378503633009,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1378503668803,"patch":[[{"diffs":[[1,"<?xml version=\"1.0\"?> \r\n<flex-config>\r\n    \r\n</flex-config>"]],"start1":0,"start2":0,"length1":0,"length2":59}]],"length":59,"saved":false}
+{"ts":1378503743399,"patch":[[{"diffs":[[0,"g>\r\n    "],[1,"<compiler> \r\n        <library-path> \r\n            <path-element>c:/mylibraries/MyButtonSwc.swc</path-element> \r\n        </library-path> \r\n    </compiler>"],[0,"\r\n</flex"]],"start1":35,"start2":35,"length1":16,"length2":169}]],"length":212,"saved":false}
+{"ts":1378503809997,"patch":[[{"diffs":[[0,"ent>"],[-1,"c:/mylibraries/MyButtonSwc"],[1,"Starling-Framework/starling/bin/starling"],[0,".swc"]],"start1":103,"start2":103,"length1":34,"length2":48}]],"length":226,"saved":false}

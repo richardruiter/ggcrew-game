@@ -1,0 +1,13 @@
+{"ts":1378503177170,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1378503336164,"patch":[[{"diffs":[[1,"~/vendor/AIRSDK/bin/mxmlc"]],"start1":0,"start2":0,"length1":0,"length2":25}]],"length":25,"saved":false}
+{"ts":1378503428263,"patch":[[{"diffs":[[0,"~/"],[1,"604541/"],[0,"vendor/A"]],"start1":0,"start2":0,"length1":10,"length2":17}]],"length":32,"saved":false}
+{"ts":1378504061183,"patch":[[{"diffs":[[0,"in/mxmlc"],[1," "]],"start1":24,"start2":24,"length1":8,"length2":9}]],"length":33,"saved":false}
+{"ts":1378504156570,"patch":[[{"diffs":[[0,"n/mxmlc "],[1,"-library-path+=~/604541/vendor/Starling-Framework/starling/bin/starling.swc -o ~/604541/build/game.swf ~/604541/src/Startup.as"]],"start1":25,"start2":25,"length1":8,"length2":134}]],"length":159,"saved":false}
+{"ts":1378504207865,"patch":[[{"diffs":[[0,"y-path+="],[-1,"~/604541"],[1,".."],[0,"/vendor/"]],"start1":40,"start2":40,"length1":24,"length2":18}]],"length":153,"saved":false}
+{"ts":1378504229471,"patch":[[{"diffs":[[0,".swc -o "],[-1,"~/604541"],[1,".."],[0,"/build/g"]],"start1":98,"start2":98,"length1":24,"length2":18},{"diffs":[[0,"ame.swf "],[-1,"~/604541"],[1,".."],[0,"/src/Sta"]],"start1":116,"start2":116,"length1":24,"length2":18}]],"length":141,"saved":false}
+{"ts":1378504350859,"patch":[[{"diffs":[[0,"/Startup"],[1,"3"],[0,".as"]],"start1":130,"start2":130,"length1":11,"length2":12}]],"length":142,"saved":false}
+{"ts":1378504381485,"patch":[[{"diffs":[[0,"rtup"],[-1,"3"],[0,".as"]],"start1":134,"start2":134,"length1":8,"length2":7}]],"length":141,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1378886758125,"patch":[[{"diffs":[[0,"n/mxmlc "],[1,"\\\n"],[0,"-library"]],"start1":25,"start2":25,"length1":16,"length2":18},{"diffs":[[0,"ing.swc "],[1,"\\\n"],[0,"-o ../bu"]],"start1":97,"start2":97,"length1":16,"length2":18},{"diffs":[[0,"ame.swf "],[1,"\\\n"],[0,"../src/S"]],"start1":120,"start2":120,"length1":16,"length2":18}]],"length":147,"saved":false}
+{"ts":1378887103304,"patch":[[{"diffs":[[0,"g.swc \\\n"],[1,"-library-path+=../vendor/TMX_Starling/Source \\\n"],[0,"-o ../bu"]],"start1":99,"start2":99,"length1":16,"length2":63}]],"length":194,"saved":false}
+{"ts":1378887451524,"patch":[[{"diffs":[[0,"ling.swc \\\n-"],[-1,"library"],[1,"source"],[0,"-path+=../ve"]],"start1":96,"start2":96,"length1":31,"length2":30}]],"length":193,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1378985731281,"patch":[[{"diffs":[[0,"ource \\\n"],[1,"-source-path+=../vendor/feathers/source \\\n-source-path+=../vendor/starlingMVC/src \\\n"],[0,"-o ../bu"]],"start1":145,"start2":145,"length1":16,"length2":100}]],"length":277,"saved":false}

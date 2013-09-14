@@ -1,0 +1,15 @@
+[submodule "vendor/starlingMVC"]
+	path = vendor/starlingMVC
+	url = git@github.com:CreativeBottle/starlingMVC.git
+[submodule "vendor/feathers"]
+	path = vendor/feathers
+	url = git@github.com:joshtynjala/feathers.git
+[submodule "vendor/TMX_Starling"]
+	path = vendor/TMX_Starling
+	url = git@github.com:pachilo/TMX_Starling.git
+[submodule "vendor/Starling-Framework"]
+	path = vendor/Starling-Framework
+	url = git@github.com:PrimaryFeather/Starling-Framework.git
+[submodule "vendor/AssetLibrary"]
+	path = vendor/AssetLibrary
+	url = git@github.com:heart/AssetLibrary.git
